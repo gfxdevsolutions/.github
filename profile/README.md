@@ -1,6 +1,6 @@
 # GFXDev Solutions - Engineering Team
 
-![GFXDev Solutions Logo](insert_logo_image_url_here)
+![GFXDev Solutions Logo](https://github.com/gfxdevsolutions/.github/blob/main/profile/GFXDev_cleanup.png)
 
 Welcome to GFXDev Solutions' GitHub repository! We are a highly skilled Computer Science engineering team with a strong background in software development. Our team is passionate about solving complex problems and delivering innovative solutions. Whether you need a robust web application built on the MERN stack, scalable APIs, dynamic user interfaces, or complex algorithms, GFXDev Solutions has you covered.
 
